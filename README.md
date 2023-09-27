@@ -28,13 +28,13 @@ Demonstrating consistent Chinook database implementation across diverse database
         <li>
             <h2>MySQL Implementation:</h2>
             <ul>
-                <li>Executed 'Azure_Chinook_MySql_AutoIncrementPKs-2.sql' on Azure Database for MySQL or the local MacBook, setting up tables and importing data.</li>
+                <li>Executed 'Azure_Chinook_MySql_AutoIncrementPKs-2.sql' on Azure Database for MySQL, setting up tables and importing data.</li>
             </ul>
         </li>
         <li>
             <h2>PostgreSQL Implementation:</h2>
             <ul>
-                <li>Ran 'Azure_Chinook_PostgreSql-1.sql' on Azure Database for PostgreSQL or the local notebook, establishing tables and populating data.</li>
+                <li>Ran 'Azure_Chinook_PostgreSql-1.sql' on Azure Database for PostgreSQL on the local, establishing tables and populating data.</li>
             </ul>
         </li>
         <li>
@@ -50,18 +50,6 @@ Demonstrating consistent Chinook database implementation across diverse database
             <ul>
                 <li>Showcased screenshots capturing query execution and results across MySQL, SQL Server/Azure SQL, and PostgreSQL.</li>
             </ul>
-        </li>
-        <li>
-            <h2>Adherence to Instructions:</h2>
-            <ul>
-                <li>Avoided recreating the Azure SQL database.</li>
-                <li>Followed guidelines using designated scripts for each database type.</li>
-                <li>Ensured crucial steps like table creation, data loading, and auto-incrementing primary keys were implemented.</li>
-            </ul>
-        </li>
-        <li>
-            <h2>Project Objective:</h2>
-            <p>Embarked on a personal journey of implementing the Chinook database, ensuring a consistent experience and successfully executing tailored queries to reveal insightful sales data.</p>
         </li>
     </ol>
 
