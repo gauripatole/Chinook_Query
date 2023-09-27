@@ -1,14 +1,13 @@
 # Chinook_Query
 Demonstrating consistent Chinook database implementation across diverse database systems and showcasing successful execution of specified queries for extracting sales-related information.
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chinook Database Project Summary</title>
+    <title> Chinook Database Project Summary </title>
 </head>
-
 <body>
    <h1>Project Summary: Chinook Database Implementation Journey</h1>
   <ol>
