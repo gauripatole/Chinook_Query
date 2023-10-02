@@ -38,17 +38,19 @@ Demonstrating consistent Chinook database implementation across diverse database
             </ul>
         </li>
         <li>
-            <h2>Query Tasks:</h2>
+            <h2>Tasks:</h2>
             <ul>
-                <li>Explored sales insights in MySQL, grouping data by genre name.</li>
-                <li>Identified the top 20 customers (lastname & first name) based on sales (via invoiceline) in SQL Server and Azure SQL, adding a personalized touch.</li>
-                <li>Focused on diversity in PostgreSQL, determining the top 10 album titles based on sales (via invoiceline).</li>
+                <li>Utilized connectors to load data into MySQL, Azure SQL, and PostgreSQL databases.</li>
+                <li>Crafted SQL queries for additional business questions, showcasing diverse analytical capabilities.</li>
+                <li>Used ER Studio to design a dimensional model for structured and efficient data analysis.</li>
+                <li>Used Power BI to create visualizations and dashboards based on the Chinook database.Integrated data from MySQL, Azure SQL, and PostgreSQL into Power BI for a consolidated view.</li>
             </ul>
         </li>
         <li>
             <h2>Results Display:</h2>
             <ul>
                 <li>Showcased screenshots capturing query execution and results across MySQL, SQL Server/Azure SQL, and PostgreSQL.</li>
+                <li>Emphasized the utility of the database for analytical purposes by showcasing additional tasks such as query writing, dimensional model creation, and Power BI dashboard creation.</li>
             </ul>
         </li>
     </ol>
